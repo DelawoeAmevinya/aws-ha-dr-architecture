@@ -18,7 +18,7 @@ This project demonstrates a production-grade High Availability (HA) and Disaster
 
 ## 🏗️ Architecture
 
-![Architecture Overview](./screenshots/01-architecture-overview.png)
+![Architecture Overview](./screenshots/1-architecture-overview.png)
 
 ### Components
 

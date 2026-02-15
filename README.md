@@ -165,7 +165,7 @@ Successfully tested auto-scaling under load using AWS CloudShell:
 -Evaluation period: 2 consecutive datapoints
 -Prevents performance degradation before it impacts users
 
-![Production Critical Alerts](./screenshots/12-production-critical-alerts)
+![Production Critical Alerts](./screenshots/12-prod-critical-alerts)
 -Unhealthy Hosts: Triggers when healthy target count < 2
 -RDS High CPU: Database CPU exceeds 80%
 -RDS Low Storage: Free storage space < 10 GB

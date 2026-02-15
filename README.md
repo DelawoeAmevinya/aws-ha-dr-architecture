@@ -19,6 +19,8 @@ This project demonstrates a production-grade High Availability (HA) and Disaster
 ## 🏗️ Architecture
 
 ![Project Architecture Overview](./screenshots/Architecture-diagram.png)
+
+
 ![VPC Resource Architecture Overview](./screenshots/1-architecture-overview.png)
 
 ### Components

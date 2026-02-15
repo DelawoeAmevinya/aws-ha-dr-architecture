@@ -313,6 +313,19 @@ Successfully tested auto-scaling under load using AWS CloudShell:
 - [ ] Implement AWS Systems Manager for patch management
 - [ ] Add AWS Certificate Manager for SSL/TLS
 
+## 🗑️ Decommissioning
+
+After completing this project and capturing all documentation, the infrastructure was decommissioned to avoid ongoing costs.
+
+**Full decommissioning guide:** [DECOMMISSION.md](DECOMMISSION.md)
+
+**Results:**
+- All resources successfully deleted
+- Monthly cost reduced from ~$195 to $0
+- Total decommission time: 42 minutes
+- Zero errors during teardown
+
+The architecture, screenshots, and learnings remain documented here for reference and portfolio purposes.
 
 ## 🎯 Skills Demonstrated
 
